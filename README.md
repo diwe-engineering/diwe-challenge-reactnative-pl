@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://www.climatempo.com.br">
-      <img src="http://i.imgur.com/Q9lCAMF.png" alt="Climatempo" width="300px"/>
+  <a href="https://diwe.com.br/" >
+      <img style="background: #000" src="https://diwe.com.br/wp-content/themes/pullup-theme/assets/img/logo.svg" alt="DIWE" width="300px"/>
   </a>
 </p>
 

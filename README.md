@@ -14,6 +14,11 @@ A DIWE ....
 # Sobre o Desafio
 O desafio consistente na criação de de um aplicativo em React Native para gerenciamento de uma lista de contatos seguindo o layout do Figma. Atente-se aos estilos do protótipo e detalhes de usabilidade do usuário.
 
+# Referências
+- [Figma](https://www.figma.com/file/MlDF7BP1BgodRv0BO4EQ4C/Desafio?node-id=804%3A29)
+- [Ícones](https://feathericons.com/)
+- [Tipografia - Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont)
+
 ### Autenticação
 O aplicativo deve possuir um login obrigatório para acesso aos recursos sendo que todas as requisições seguintes devem ser interepctadas pelo token do tipo Bearer.
 

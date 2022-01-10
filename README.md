@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://diwe.com.br/" >
-      <img style="background: #000" src="https://diwe.com.br/wp-content/themes/pullup-theme/assets/img/logo.svg" alt="DIWE" width="300px"/>
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEiCVXospgLAg/company-logo_200_200/0/1536596871797?e=1649894400&v=beta&t=b4Uup-NGAXg7tu594aODvYIzTRmCjq-yxVrII5aIRJU" alt="DIWE" width="300px"/>
   </a>
 </p>
 
